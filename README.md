@@ -9,6 +9,10 @@ without starting from scratch.
 Each task explains its purpose in a readme and then includes the directories/files produced
 while the task was created and processed.
 
+## Tasks
+
+- [Adapting a Codebase to Use Structured Logging Features provided by the tracing crate](01_rust-structured-logging-via-trace/README.md)
+
 ## LICENSE
 
 MIT
